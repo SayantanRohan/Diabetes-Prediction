@@ -1,2 +1,2 @@
 # Diabetes-Prediction
-Many of the Chinese, Indian and U.S. adults has diabetes now, according to the Centers for Disease Control and Prevention. But by 2050, 98% of the Indian will be Diabetes patient. With this in mind, I have used Machine Learning to help us predict Diabetes
+4)	Many of the Chinese, Indian and U.S. adults has diabetes now according to the Centers for Disease Control and Prevention, these are the leading countries in terms of Diabetic patients. But by 2050, 98% of the Indians will suffer from diabetes. So I build a model where Machine Learning techniques have been used to help us predict Diabetes so that necessary steps can be taken as earliest as possible to prevent such deadly disease. 
